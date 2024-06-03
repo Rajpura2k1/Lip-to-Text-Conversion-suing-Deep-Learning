@@ -57,6 +57,8 @@ This project uses a dataset consisting of video sequences and their correspondin
 
 The model architecture consists of the following layers:
 
+![image](https://github.com/Rajpura2k1/Lip-to-Text-Conversion-using-Deep-Learning/assets/120622658/465b8de0-c1c3-4acf-8181-985f82aa0c4d)
+
 1. 3D Convolutional Layers: These layers capture spatial and temporal features from the video frames.
 2. Max Pooling Layers: These layers are used for down-sampling the feature maps.
 3. Bidirectional LSTM Layers: These layers capture the temporal dependencies in the sequences by processing the input data in both forward and backward directions.
